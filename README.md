@@ -1,6 +1,6 @@
 # Muhim Uddin Tanim
 
-🚀 MERN Stack Developer | 🌐 Sylhet, Bangladesh | ✉️ muhimuddintanim@gmail.com | 📱 +88 01746404687
+### MERN Stack Developer | Front-end Developer
 
 ## Skills
 HTML5, CSS3, Bootstrap, JavaScript(ES6), ReactJS, Firebase, ExpressJS, MongoDB, NodeJS, Redux, TypeScript, NextJS.
