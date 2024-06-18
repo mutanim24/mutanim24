@@ -3,7 +3,7 @@
 #### MERN Stack Developer | Front-end Developer | React Expert
 
 ## Skills
-HTML5, CSS3, Bootstrap, JavaScript(ES6), ReactJS, Firebase, ExpressJS, MongoDB, NodeJS, Redux, TypeScript, NextJS.
+HTML5, CSS3,Tailwind, Bootstrap, JavaScript(ES6), ReactJS, Firebase, ExpressJS, MongoDB, NodeJS, Redux, TypeScript, NextJS.
 
 ## Experience
 **Front-end Developer**  
