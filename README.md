@@ -16,7 +16,7 @@ Coding Symmetry - Texas, USA (June 2023 - Present)
 
 ## Education
 **Diploma in Computer Science & Technology(CST)**  
-Moulvibazar Polytechnic Institute, Sylhet (2019 - 2023)
+Moulvibazar Polytechnic Institute, MOulvibazar, Bangladesh (2019 - 2023)
 
 ## Courses
 - MERN Stack Web Development - Programming Hero (Jan 2023 - Present)
